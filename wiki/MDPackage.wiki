@@ -1,0 +1,14 @@
+#summary A introduction of the MD package.
+
+= Introduction =
+
+It's a package write in python. 
+design to analysis the traj file of gmx.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
